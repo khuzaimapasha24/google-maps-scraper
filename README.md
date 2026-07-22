@@ -829,11 +829,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Star History
 
-<a href="https://star-history.com/#gosom/google-maps-scraper&Date">
+<a href="https://www.star-history.com/?repos=gosom%2Fgoogle-maps-scraper&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gosom/google-maps-scraper&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gosom/google-maps-scraper&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gosom/google-maps-scraper&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=gosom/google-maps-scraper&type=date&theme=dark&legend=top-left&sealed_token=Yr-6oa5yTlmDhKxqKB2hmq1BmacSXwVftAnHxVCYmn7c4GiYaBtbLGZIZufr71ZfE4jkDpnt75NiAK4fBXP9FPuusVh3L0ofCigowkfI_OxlShvmkys9esorL4X5DRFPCCEVfdt0P0PV-52Qq61fiZSVkUKRjWYT8lhKUkwcXeCH8H8aIbc9NiLItTXz" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=gosom/google-maps-scraper&type=date&legend=top-left&sealed_token=Yr-6oa5yTlmDhKxqKB2hmq1BmacSXwVftAnHxVCYmn7c4GiYaBtbLGZIZufr71ZfE4jkDpnt75NiAK4fBXP9FPuusVh3L0ofCigowkfI_OxlShvmkys9esorL4X5DRFPCCEVfdt0P0PV-52Qq61fiZSVkUKRjWYT8lhKUkwcXeCH8H8aIbc9NiLItTXz" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=gosom/google-maps-scraper&type=date&legend=top-left&sealed_token=Yr-6oa5yTlmDhKxqKB2hmq1BmacSXwVftAnHxVCYmn7c4GiYaBtbLGZIZufr71ZfE4jkDpnt75NiAK4fBXP9FPuusVh3L0ofCigowkfI_OxlShvmkys9esorL4X5DRFPCCEVfdt0P0PV-52Qq61fiZSVkUKRjWYT8lhKUkwcXeCH8H8aIbc9NiLItTXz" />
  </picture>
 </a>
 
